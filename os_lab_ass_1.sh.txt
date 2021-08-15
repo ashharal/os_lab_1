@@ -1,11 +1,3 @@
-#! /bin/bash
-# To specify which script is being used
-# By: Rutik Pol
-# PRN: 0120180213
-
-
-
-
 
 
 # BEFORE RUNNING, GIVE EXECUTABLE PERMISSION TO THIS FILE
